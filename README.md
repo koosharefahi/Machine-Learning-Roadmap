@@ -5,7 +5,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 ## 📌 Progress Tracker
 - [x]**Project 01:** Superstore Sales Analysis (EDA, KPIs, Time-Series & Dashboards)
 - [x]**Project 02:** California Housing Analysis (Distribution & Feature Correlation)
-- [ ]**Project 03:** NumPy Data Analysis Engine
+- [x]**Project 03:** NumPy Data Analysis Engine
 - [ ] ...
 
 
