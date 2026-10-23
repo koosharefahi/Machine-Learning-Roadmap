@@ -6,7 +6,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - [x]**Project 01:** Superstore Sales Analysis (EDA, KPIs, Time-Series & Dashboards)
 - [x]**Project 02:** California Housing Analysis (Distribution & Feature Correlation)
 - [x]**Project 03:** NumPy Data Analysis Engine
-- [ ] ...
+- [x]**Project 04:** Marketing Campaign Effectiveness (Hypothesis Test)
 
 
 ---
