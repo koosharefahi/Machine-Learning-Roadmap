@@ -7,6 +7,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - [x]**Project 02:** California Housing Analysis (Distribution & Feature Correlation)
 - [x]**Project 03:** NumPy Data Analysis Engine
 - [x]**Project 04:** Marketing Campaign Effectiveness (Hypothesis Test)
+- [x]**Project 05:** Income vs. Education: Exploratory and Statistical Analysis
 
 
 ---
