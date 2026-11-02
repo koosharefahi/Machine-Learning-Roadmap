@@ -9,6 +9,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - [x]**Project 04:** Marketing Campaign Effectiveness (Hypothesis Test)
 - [x]**Project 05:** Income vs. Education: Exploratory and Statistical Analysis
 - [x]**Project 06:** Correlation & Distribution Lab
+- [x]**Project 07:** Linear Algebra Training
 
 
 ---
