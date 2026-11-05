@@ -11,6 +11,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - [x]**Project 06:** Correlation & Distribution Lab
 - [x]**Project 07:** Linear Algebra Training
 - [x]**Project 08:** PCA from Scratch
+- [x]**Project 09:** Image Compression(SVD)
 
 
 ---
