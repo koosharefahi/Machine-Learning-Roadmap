@@ -3,15 +3,15 @@ A structured, hands-on repository covering foundational data analysis, tradition
 ---
 
 ## 📌 Progress Tracker
-- [x]**Project 01:** Superstore Sales Analysis (EDA, KPIs, Time-Series & Dashboards)
-- [x]**Project 02:** California Housing Analysis (Distribution & Feature Correlation)
-- [x]**Project 03:** NumPy Data Analysis Engine
-- [x]**Project 04:** Marketing Campaign Effectiveness (Hypothesis Test)
-- [x]**Project 05:** Income vs. Education: Exploratory and Statistical Analysis
-- [x]**Project 06:** Correlation & Distribution Lab
-- [x]**Project 07:** Linear Algebra Training
-- [x]**Project 08:** PCA from Scratch
-- [x]**Project 09:** Image Compression(SVD)
+- **Project 01:** Superstore Sales Analysis (EDA, KPIs, Time-Series & Dashboards)
+- **Project 02:** California Housing Analysis (Distribution & Feature Correlation)
+- **Project 03:** NumPy Data Analysis Engine
+- **Project 04:** Marketing Campaign Effectiveness (Hypothesis Test)
+- **Project 05:** Income vs. Education: Exploratory and Statistical Analysis
+- **Project 06:** Correlation & Distribution Lab
+- **Project 07:** Linear Algebra Training
+- **Project 08:** PCA from Scratch
+- **Project 09:** Image Compression(SVD)
 
 
 ---
