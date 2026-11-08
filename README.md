@@ -12,6 +12,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - **Project 07:** Linear Algebra Training
 - **Project 08:** PCA from Scratch
 - **Project 09:** Image Compression(SVD)
+- **Project 10:** Iris Classification
 
 
 ---
