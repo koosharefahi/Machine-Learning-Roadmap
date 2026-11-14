@@ -14,6 +14,7 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - **Project 09:** Image Compression(SVD)
 - **Project 10:** Iris Classification
 - **Project 11:** Handwritten Digit Classification
+- **Project 12:** Customer Churn Prediction
 
 
 ---
