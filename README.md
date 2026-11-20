@@ -16,6 +16,8 @@ A structured, hands-on repository covering foundational data analysis, tradition
 - **Project 11:** Handwritten Digit Classification
 - **Project 12:** Customer Churn Prediction
 - **Project 13:** Breast Cancer Classification (SVM)
+- **Project 14:** Model Selection with Cross Validation
+
 
 
 ---
